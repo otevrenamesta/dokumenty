@@ -98,7 +98,7 @@ veřejnou správu.
 --------------
 K dosažení svých cílů svazek zejména:
 
-3.1 hájí  společné zájmy členů svazku u státních orgánů, dodavatelů 
+3.1 hájí společné zájmy členů svazku u státních orgánů, dodavatelů 
 proprietárního software a jiných institucí,
 
 3.2 vede vlastní projekty, zaštiťuje projekty třetích stran a zapojuje do 
@@ -107,10 +107,8 @@ svých aktivit členy svazku anebo veřejné vysoké školy a jiné instituce, n
 <a name="b3.2.1"></a>
 - 3.2.1 vystupuje namísto členů svazku na jejich žádost jako zadavatel při 
   společném zadavání veřejných zakázek zejména na svobodný software,
-
 - 3.2.2 vypisuje veřejné soutěže např. pro studenty vysokých škol a komerční 
   dodavatele na svobodný software,
-
 - 3.2.3 zaměstnává vlastní vývojáře a jiné odborníky pracující na veřejně 
   prospěšných výstupech podle cílů svazku.
 
@@ -192,10 +190,8 @@ a zachovávat vnitřní řád svazku.
 
 - 5.3.1 těžit z plodů činnosti svazku, zejména bezplatné užívat jím vyvinutý 
   svobodný software a příklady dobré praxe,
-
 - 5.3.2 navrhovat nové projekty svazku, žádat o záštitu svazku nad svými 
   vlastními projekty, zapojovat se do existujících projektů svazku (bod [4.4](#b4.4)) a
-
 - 5.3.3 kontrolovat hospodaření svazku a jinak se podílet na činnosti svazku 
   v souladu se stanovami.
 
@@ -250,9 +246,7 @@ pozastavena.
 6.1 Svazek má 
 
 - 6.1.1 nejvyšší orgán, kterým je členská schůze,
-
 - 6.1.2 volené orgány, kterými jsou výbor, kontrolor a technická rada,
-
 - 6.1.3 jmenované orgány, které jsou ustaveny podle organizační struktury a jsou
   obsazovány na základě veřejných výběrových řízení.
 
@@ -268,7 +262,6 @@ na internetových stránkách svazku pokud možno průběžně a dostatečnou do
 6.4 Orgány rozhodují ve veřejném hlasování podle jmen členů
 
 - 6.4.1 většinou hlasů všech svých členů, nebylo-li rozhodnutí řádně projednáno,
-
 <a name="b6.4.2"></a>
 - 6.4.2 většinou hlasů těch svých členů, 
   kteří se účastní hlasování, stanoví-li
@@ -387,25 +380,17 @@ kolektivní orgán o pěti členech. Výbor
 - 8.4.1 odpovídá za vystupování svazku navenek a plnění povinností 
   svazku vyplývajících ze zákona nebo těchto stanov, nejsou-li svěřeny jinému 
   orgánu,
-
 - 8.4.2 kontroluje hospodaření s majetkem svazku a dodržování pravidel 
   zaměstnanci svazku,
-
 - 8.4.3 schvaluje účetní závěrku svazku obcí sestavenou k rozvahovému dni podle 
   zákona o účetnictví,
-
 - 8.4.4 <a name="b8.4.4"></a> určuje dlouhodobé cíle svazku a schvaluje technický plán, který určuje 
   vlastní projekty svazku (bod [4.4](#b4.4)),
-
 - 8.4.5 určuje organizační strukturu, přijímá vnitřní předpisy k úpravě 
   poměrů svazku a vzory smluv pro právní vztahy, v nichž svazek vystupuje,
-
 - 8.4.6 volí, odvolává a úkoluje technickou radu,
-
 - 8.4.7 rozhoduje o tom, kdo se stane partnerem svazku, a o zrušení partnerství,
-
 - 8.4.8 předkládá členské schůzi alespoň jednou ročně zprávu o činnosti,
-
 - 8.4.9 <a name="b8.4.9"></a> vede a na internetových stránkách svazku zveřejňuje seznam členů 
   s údaji podle zákona a těchto stanov.
 
@@ -414,10 +399,8 @@ působnosti svazku. Technická rada
 
 - 8.5.1 řeší odborné otázky vedení projektů, správy kódu, vedení komunity 
   (bod [3.5](#b3.5)) a technického plánu (bod [8.4.4](#b8.4.4)),
-
 - 8.5.2 dohlíží na to, že svazek a jeho projekty dodržují principy technické 
   povahy uvedené ve stanovách,
-
 - 8.5.3 rozhoduje v pochybnostech o tom, zda jsou technické záměry a provedení 
   projektu v souladu s vnitřním řádem svazku.
 
@@ -426,9 +409,7 @@ orgánu svazku. Může být zvoleno i více kontrolorů, pak jedná každý samo
 Kontrolor
 
 - 8.6.1 má přístup ke všem dokumentům svazku a dohlíží na jeho hospodaření,
-
 - 8.6.2 předkládá alespoň jednou ročně zprávu o hospodaření členské schůzi,
-
 - 8.6.3 zúčastňuje se jednání orgánů svazku s hlasem poradním.
 
 > **Komentář**:
