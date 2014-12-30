@@ -1,0 +1,8 @@
+### Jekyll template
+_site/
+debug/
+build/
+.idea
+*~
+_trash/
+.sass-cache/

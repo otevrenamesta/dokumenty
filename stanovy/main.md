@@ -8,23 +8,27 @@ Jakub Michálek. Pro zapojení a připomínky napište do konference ma mail
 1. Základní údaje
 -----------------
 
+<a name="b1.1"></a>
 1.1 Název dobrovolného svazku zní **Otevřená města** (dále jen „svazek“).
 
+<a name="b1.2"></a>
 1.2 Svazek je ustaven ve veřejném zájmu jako právnická osoba veřejného práva, 
 která sdružuje města, obce a další základní územní samosprávné celky.
 
+<a name="b1.3"></a>
 1.3. Internetové stránky svazku jsou na doméně 
 [otevrenamesta.cz](http://www.otevrenamesta.cz).
 
+<a name="b1.4"></a>
 1.4 Sídlem svazku je Brno.
 
 1.5 Svazek je zakládán na dobu neurčitou.
 
 > **Komentář**:
 >
-> K 1.1 Název svazku vyjadřuje politiku otevřenosti a hlavní cíle svazku.
+> K [1.1](#b1.1) Název svazku vyjadřuje politiku otevřenosti a hlavní cíle svazku.
 >
-> K 1.2 Právní formu dobrovolného svazku obcí upravuje § 49 a násl. zákona 
+> K [1.2](#b1.2) Právní formu dobrovolného svazku obcí upravuje § 49 a násl. zákona 
 > č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, resp. § 24 a 
 > násl. zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších 
 > předpisů. Forma dobrovolného svazku obcí odpovídá tomu, že jde o spolupráci 
@@ -32,7 +36,7 @@ která sdružuje města, obce a další základní územní samosprávné celky.
 > veřejného práva. Svazek je ustaven ve veřejném zájmu dle § 144 odst. 1 zákona
 > č. 89/2012 Sb., občanského zákoníku.
 >
-> K 1.3. Doména plně odpovídá názvu právnické osoby. Doménu zakoupil dne 
+> K [1.3](#b1.3). Doména plně odpovídá názvu právnické osoby. Doménu zakoupil dne 
 > 14. 12. 2014 pro tento projekt a pod jeho názvem autor stanov a tato doména 
 > bude po vzniku bezplatně převedena pod svazek a vedena jako jeho majetek
 > v souladu s § 127 zákona č. 89/2012 Sb., občanského zákoníku. Právnická osoba
@@ -41,7 +45,7 @@ která sdružuje města, obce a další základní územní samosprávné celky.
 > zavázána od počátku. Převezme-li je, dá dalším zúčastněným najevo, že tak 
 > učinila. V tomto případě tedy vyrozumí registrátora domény.
 >
-> K 1.4 Jde o výsledek dohody na pracovní schůzce, který reflektuje skutečnost, 
+> K [1.4](#b1.4) Jde o výsledek dohody na pracovní schůzce, který reflektuje skutečnost, 
 > že Brno je tradičním místem konání konferencí a veletrhů v oblasti otevřeného 
 > software. Přesnou adresu místa v obci není  třeba do stanov psát 
 > (§ 136 odst. 2 zákona č. 89/2012 Sb., občanský zákoník) a bude určena orgány 
@@ -51,17 +55,19 @@ která sdružuje města, obce a další základní územní samosprávné celky.
 2. Cíle
 --------
 
+<a name="b2.1"></a>
 2.1 Svazek prosazuje otevřené fungování radnic, zejména zveřejňování informací, 
 transparentní rozhodování, zpřístupnění úředních dat a zapojování veřejnosti 
 do rozhodování.
 
+<a name="b2.2"></a>
 2.2 Svazek prosazuje, koordinuje a financuje zavádění, vývoj a údržbu svobodného
 software a dalších otevřených technologií pro výkonnou, hospodárnou a bezpečnou 
 veřejnou správu.
 
 > **Komentář**:
 > 
-> K 2.1 První cíl mluví o otevřeném fungování radnic, přičemž dává příklady, 
+> K [2.1](#b2.1) První cíl mluví o otevřeném fungování radnic, přičemž dává příklady, 
 > co se tím rozumí. Jde například o zveřejňování informací podle § 5 zákona 
 > č. 106/1999 Sb.,  o svobodném přístupu k informacím, ve znění pozdějších 
 > předpisů, zpřístupňování dat ve formátu otevřených dat, zapojování veřejnosti 
@@ -70,7 +76,7 @@ veřejnou správu.
 > Všechny tyto cíle však vyžadují silnou technologickou základnu (software), 
 > která je také hlavní motivací pro druhý cíl.
 >
-> K 2.2 Druhý cíl se týká šetření rozpočtových prostředků měst, které jsou nyní 
+> K [2.2](#b2.2) Druhý cíl se týká šetření rozpočtových prostředků měst, které jsou nyní 
 > vydávány na software objednávaný jednotlivými městy u komerčních společností. 
 > Jde o činnosti, které v podstatě přesahují rámec území, a tedy je na nich 
 > vhodné spolupracovat podle principu subsidiarity. Komerčně dodávaný software 
@@ -98,6 +104,7 @@ proprietárního software a jiných institucí,
 3.2 vede vlastní projekty, zaštiťuje projekty třetích stran a zapojuje do 
 svých aktivit členy svazku anebo veřejné vysoké školy a jiné instituce, např.
 
+<a name="b2.2"></a>
 - 3.2.1 vystupuje namísto členů svazku na jejich žádost jako zadavatel při 
   společném zadavání veřejných zakázek zejména na svobodný software,
 
@@ -113,6 +120,7 @@ standardy a dobrou praxi,
 3.4 shromažďuje finanční prostředky od členů svazku ve vlastnictví svazku a 
 zakládá právnické osoby nebo na nich nabývá majetkovou účast,
 
+<a name="b3.5"></a>
 3.5 organizuje a informuje neformální komunitu pro otevřenost a svobodný 
 software ve veřejné správě, členy svazku i veřejnost,
 
@@ -122,7 +130,7 @@ software ve veřejné správě, členy svazku i veřejnost,
 
 > **Komentář**:
 
-> K 3.2.1 Podle § 3 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění 
+> K [3.2.1](#b3.2.1) Podle § 3 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění 
 > pozdějších předpisů, je centrálním zadavatelem veřejný zadavatel, který 
 > provádí centralizované zadávání. Svazek bude veřejným zadavatelem podle 
 > § 2 odst. 2 písm. d) tohoto zákona. První možnost centrálního zadavatele 
@@ -142,7 +150,8 @@ jiná díla zakoupená za veřejné prostředky byla volně dostupná jako
 [svobodné kulturní dílo][fcw] s možností opakovaného užití i komerčním sektorem.
 
 4.2 Svazek spolupracuje s kraji, státními orgány, veřejnými vysokými školami, výzkumnými 
-a vědeckými institucemi, školami, politickými stranami, neziskovým sektorem a 
+a vědeckými institucemi, školami, politickými stranami, příspěvkovými a 
+jinými městskými organizacemi, neziskovým sektorem a 
 dalšími institucemi, které se mohou stát partnery svazku,  pokud se ztotožní s cíly a 
 principy činnosti svazku a zavážou se pomoci při prosazování cílů svazku.
 
@@ -151,6 +160,7 @@ komunikační platformě a na hledání široké shody mezi těmi, kterých se
 rozhodnutí týká. Nelze-li dosáhnout široké shody, rozhoduje až hlasování 
 podle pravidel v těchto stanovách.
 
+<a name="b4.4"></a>
 4.4 Svazek uskutečňuje vlastní projekty nebo zaštiťuje projekty třetích stran 
 vedoucí k dosažení cílů svazku. Projekt člena svazku nebo jiné veřejné 
 instituce, který je v souladu s vnitřním řádem svazku, zařadí svazek do 
@@ -159,6 +169,7 @@ O záležitostech projektu rozhoduje jeho vedoucí, který je za něj také
 odpovědný. Projekt může získávat prostředky od svazku, jeho členů a 
 z jiných zdrojů.
 
+<a name="b4.5"></a>
 4.5 Kde ze zákona či těchto stanov nevyplývá nic jiného, řídí se svazek a 
 jeho členové vnitřním řádem svazku a obdobně též obecnými ustanoveními zákona 
 o spolku a jeho členech.
@@ -168,6 +179,8 @@ o spolku a jeho členech.
 
 5. Členství
 -----------
+
+<a name="b5.1"></a>
 5.1 Členem svazku může být základní územní samosprávný celek v České republice.
 Zejména může být členem svazku hlavní město Praha, 
 jeho městská část, statutární či jiné město anebo jiná obec.
@@ -181,11 +194,12 @@ a zachovávat vnitřní řád svazku.
   svobodný software a příklady dobré praxe,
 
 - 5.3.2 navrhovat nové projekty svazku, žádat o záštitu svazku nad svými 
-  vlastními projekty, zapojovat se do existujících projektů svazku (bod 4.5) a
+  vlastními projekty, zapojovat se do existujících projektů svazku (bod [4.4](#b4.4)) a
 
 - 5.3.3 kontrolovat hospodaření svazku a jinak se podílet na činnosti svazku 
   v souladu se stanovami.
 
+<a name="b5.4"></a>
 5.4 Počtem obyvatel se pro daného člena svazku v těchto stanovách rozumí lidé, 
 kteří mají na jeho území trvalé bydliště. Pokud je členem svazku jak hlavní 
 město Praha, tak jeho městská část, rozdělí se počet obyvatel rovnou měrou 
@@ -204,7 +218,7 @@ pozastavena.
 
 > **Komentář**:
 > 
-> K 5.1 Členství je omezeno na základní územní samosprávné celky. Členem 
+> K [5.1][#b5.1] Členství je omezeno na základní územní samosprávné celky. Členem 
 > může být hlavní město Praha (§ 24 odst. 1 zákona č. 131/2000 Sb., o hlavním 
 > městě Praze, ve znění pozdějších předpisů), jeho městské části (§ 23 odst. 1, 
 > 3 ve spojení s § 24 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění 
@@ -213,16 +227,16 @@ pozastavena.
 > ve znění pozdějších předpisů). Městské části a obvody územně členěných 
 > statutárních měst (s citovanou výjimkou hlavního města Prahy) nemají vlastní 
 > právní subjektivitu, proto nemohou být členy svazku a v jejich 
-> případě není třeba řešit problém dělení hlasů (bod 5.4).
+> případě není třeba řešit problém dělení hlasů (bod [5.4](#b5.4)).
 > 
-> K 5.4 Seznam členů je veden na základě bodu 4.6 stanov ve spojení s § 236
-> zákona č. 89/2012 Sb., občanský zákoník, a bodu 8.4.9 stanov.
+> K [5.4](#b5.4) Seznam členů je veden na základě bodu [4.5](#b4.5) stanov ve spojení s § 236
+> zákona č. 89/2012 Sb., občanský zákoník, a bodu [8.4.9](#b8.4.9) stanov.
 > 
 > K 5.5 Usnesení zastupitelstva je nezbytnou podmínkou podle § 59 odst. 2 písm.
 > i) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších 
 > předpisů, pro účast na svazku.
 > K 5.6 Vylučuje se subsidiární použitelnost ustanovení o zániku členství, 
-> která by podle bodu 4 ve spojení s § 238 zákona č. 89/2012 Sb., 
+> která by podle bodu [4.5](#b4.5) ve spojení s § 238 zákona č. 89/2012 Sb., 
 > občanský zákoník, nastala. Jde o to, aby nemusel opakovaně probíhat proces 
 > podání nové přihlášky. V ostatních věcech (přijímání a vylučování členů) 
 > se řídí spolek ustanoveními občanského zákoníku o spolku.
@@ -243,6 +257,7 @@ pozastavena.
 nadpolovičního počtu členů svazku anebo nižšího počtu členů, stanoví-li tak
 jednací řád členské schůze.
 
+<a name="b6.3"></a>
 6.3 Pozvánky na zasedání orgánů, návrhy usnesení a odůvodnění, prezentace členů,
 kteří mají kandidovat, jakož i jiné podkladové materiály, se zveřejňují 
 na internetových stránkách svazku pokud možno průběžně a dostatečnou dobu předem.
@@ -251,9 +266,10 @@ na internetových stránkách svazku pokud možno průběžně a dostatečnou do
 
 - 6.4.1 většinou hlasů všech svých členů, bylo-li rozhodnutí řádně projednáno,
 
-- 6.4.2 většinou hlasů těch svých členů, kteří se účastní hlasování, stanoví-li
-jednací řád daného orgánu podmínky řádného projednání a jsou-li podmínky 
-vyplývající z jednacího řádu daného orgánu i vnitřního řádu svazku dodrženy.
+- 6.4.2 <a name="b6.4.2"></a> většinou hlasů těch svých členů, 
+  kteří se účastní hlasování, stanoví-li
+  jednací řád daného orgánu podmínky řádného projednání a jsou-li podmínky 
+  vyplývající z jednacího řádu daného orgánu i vnitřního řádu svazku dodrženy.
 
 6.5 Jednání probíhá přednostně na dálku pomocí komunikačních 
 technologií, aby mohli členové zasílat předem své alternativní návrhy, aby byl
@@ -264,7 +280,7 @@ mohli účastnit i nepřítomní členové.
 
 > **Komentář**:
 > 
-> K 6.4 Obdobně jako v § 257 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku,
+> K [6.4.2](#b6.4.2) Obdobně jako v § 257 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku,
 > se navrhuje určit případy, ve kterých není třeba souhlasu nadpoloviční většiny
 > všech členů, ale pouze většiny členů aktivních. Nezájem a neúčast tedy nemohou
 > činnost svazku zablokovat. Podmínky řádného projednání mohou být stanoveny
@@ -272,8 +288,8 @@ mohli účastnit i nepřítomní členové.
 >
 > Příkladem
 > takových podmínek může být například, že podkladové materiály byly 
-> zveřejněňovány po celou dobu projednání způsobem uvedeným ve stanovách 
-> (bod 6.3), členové orgánu měli dostatečnou dobu na přípravu vlastních 
+> zveřejňovány po celou dobu projednání způsobem uvedeným ve stanovách 
+> (bod [6.3](#b6.3)), členové orgánu měli dostatečnou dobu na přípravu vlastních 
 > alternativních návrhů, členové orgánu měli dostatečnou dobu na rozhodnutí 
 > mezi alternativními návrhy (minimální doba trvání musí být předem stanovena 
 > jednacím řádem daného orgánu nebo jinou součástí vnitřního řádu svazku) a 
@@ -295,7 +311,7 @@ z jeho počtu obyvatel. Tyto hlasy není možné rozdělit.
 7.3 Jednací řád členské schůze stanoví podmínky, za kterých je závazný 
 návrh na svolání členské schůze.
 
-7.4 Členské  schůzi je vyhrazeno
+7.4 Členské schůzi je vyhrazeno
 
 - 7.4.1 usnášet se na svém jednacím řádu,
 
@@ -310,8 +326,8 @@ návrh na svolání členské schůze.
 - 7.4.6 udělovat předchozí souhlas se smlouvou o výkonu funkce vzhledem k 
   orgánům, které volí,
 
-- 7.4.7 stanovit výši členských příspěvků na následující kalendářní rok, a to 
-aspoň 30 dní před začátkem tohoto roku,
+- 7.4.7 <a name="b7.4.7"></a> změnit výši členského příspěvku na následující kalendářní roky, a to 
+  aspoň 90 dní před začátkem nového kalendářního roku,
 
 - 7.4.8 rušit či měnit libovolné rozhodnutí jiného orgánu svazku, dotýká-li 
 se zrušení či změna rozhodnutí pouze jednání a vnitřních poměrů svazku,
@@ -323,7 +339,7 @@ odvolávat likvidátora,
 
 > **Komentář**:
 > 
-> K 7.2 Počet hlasů je úměrný odmocnině z počtu obyvatel. Jde o realizaci tzv.
+> K [7.2](#b7.2) Počet hlasů je úměrný odmocnině z počtu obyvatel. Jde o realizaci tzv.
 > Penroseho odmocninového zákona (podle matematika Lionela Penrose), 
 > podle něhož je *apriorní* hlasovací síla člena určitého hlasujícího tělesa
 > definovaná Penroseho-Banzhafovým indexem nepřímo úměrná odmocnině jeho 
@@ -382,11 +398,11 @@ kolektivní orgán o pěti členech. Výbor
 - 8.4.3 schvaluje účetní závěrku svazku obcí sestavenou k rozvahovému dni podle 
   zákona o účetnictví,
 
-- 8.4.4 určuje dlouhodobé cíle svazku a schvaluje technický plán, který určuje 
-  vlastní projekty svazku (bod 4.5),
+- 8.4.4 <a name="b8.4.4"></a> určuje dlouhodobé cíle svazku a schvaluje technický plán, který určuje 
+  vlastní projekty svazku (bod [4.4](#b4.4)),
 
 - 8.4.5 určuje organizační strukturu, přijímá vnitřní předpisy k úpravě 
-  poměrů svazku a vzory smluv pro právní vztahy navenek,
+  poměrů svazku a vzory smluv pro právní vztahy, v nichž svazek vystupuje,
 
 - 8.4.6 volí, odvolává a úkoluje technickou radu,
 
@@ -394,14 +410,14 @@ kolektivní orgán o pěti členech. Výbor
 
 - 8.4.8 předkládá členské schůzi alespoň jednou ročně zprávu o činnosti,
 
-- 8.4.9 vede a na internetových stránkách svazku zveřejňuje seznam členů 
+- 8.4.9 <a name="b8.4.9"></a> vede a na internetových stránkách svazku zveřejňuje seznam členů 
   s údaji podle zákona a těchto stanov.
 
 8.5 **Technická rada** je poradním orgánem výboru v odborných záležitostech 
 působnosti svazku. Technická rada
 
 - 8.5.1 řeší odborné otázky vedení projektů, správy kódu, vedení komunity 
-(bod 3.5) a technického plánu (bod 8.4.4),
+  (bod [3.5](#b3.5)) a technického plánu (bod [8.4.4](#b8.4.4)),
 
 - 8.5.2 dohlíží na to, že svazek a jeho projekty dodržují principy technické 
   povahy uvedené ve stanovách,
@@ -413,11 +429,11 @@ působnosti svazku. Technická rada
 orgánu svazku. Může být zvoleno i více kontrolorů, pak jedná každý samostatně.
 Kontrolor
 
-8.6.1 má přístup ke všem dokumentům svazku a dohlíží na jeho hospodaření,
+- 8.6.1 má přístup ke všem dokumentům svazku a dohlíží na jeho hospodaření,
 
-8.6.2 předkládá alespoň jednou ročně zprávu o hospodaření členské schůzi,
+- 8.6.2 předkládá alespoň jednou ročně zprávu o hospodaření členské schůzi,
 
-8.6.3 zúčastňuje se jednání orgánů svazku s hlasem poradním.
+- 8.6.3 zúčastňuje se jednání orgánů svazku s hlasem poradním.
 
 > **Komentář**:
 > Co se týče organizačnou soustavy, autor stanov vycházel ze svých zkušeností
@@ -437,7 +453,7 @@ výborem, a to v souladu s předchozím usnesením výboru.
 9.2 Jde-li o závažnější právní jednání, vyžaduje se vedle jednání 
 podle bodu 9.1 současně i společné právní jednání dalšího člena výboru.
 
-9.3 Závažnějším právním jednáním je právní jednání, kterým svazek poskytuje 
+9.3 **Závažnějším právním jednáním** je právní jednání, kterým svazek poskytuje 
 větší hodnotu než 100 000 Kč nebo se k takovému plnění zavazuje. 
 Za poskytnutí takové hodnoty se považuje též ručení takovou 
 hodnotou, její zastavení, zatížení, uzavření o smlouvě budoucí, předkupní 
@@ -459,7 +475,7 @@ svazek.
 
 10.2 Svazek je financován z členských příspěvků, dotací, příjmů z vlastní 
 činnosti i peněz obdržených na jednotlivé projekty. Členové svazku platí 
-členské příspěvky ve výši, která je úměrná počtu obyvatel (bod 7.4.7). 
+členské příspěvky ve výši, která je úměrná počtu obyvatel (bod [7.4.7](#b7.4.7)). 
 Příspěvek je splatný na transparentní bankovní účet svazku do prvního dne 
 kalendářního roku, na který se platí.
 
@@ -482,39 +498,42 @@ zákona o svobodném přístupu k informacím.
 
 11. Smírčí a rozhodčí doložka
 --------------------
+<a name="b11.1"></a>
 11.1 Vznikne-li mezi členem svazku a svazkem nebo mezi členy svazku navzájem 
-při činnosti svazku nebo při některém z projektu svazku (4.5) spor, zavazují se 
+při činnosti svazku nebo při některém z projektu svazku ([4.4](#b4.4)) spor, zavazují se 
 členové pokusit o smírné řešení sporu, a to aspoň na dvou jednáních výboru.
 
+<a name="b11.2"></a>
 11.2 Teprve následně bude tento spor rozhodnut s konečnou platností 
 v rozhodčím řízení podle zákona o rozhodčím řízení a o výkonu rozhodčích nálezů.
 
 > **Komentář**:
 >
-> K 11.1 V rámci organizace nemůže dojít ke sporu, neboť v čele organizační 
+> K [11.1](#b11.1) V rámci organizace nemůže dojít ke sporu, neboť v čele organizační 
 > soustavy stojí výbor a tomu jsou výkonné orgány svazku podřízeny. Spory např.
 > s kontrolorem by se řešily jedině před členskou schůzí v rámci projednávání
 > výroční zprávy kontrolora o hospodaření.
 >
-> K 11.2 Není-li dohodnuto jinak, postupuje se podle zákona č. 216/1994 Sb., 
+> K [11.2](#b11.2) Není-li dohodnuto jinak, postupuje se podle zákona č. 216/1994 Sb., 
 > o rozhodčím řízení a o výkonu rozhodčích nálezů. Podle § 7 odst. 2 nemá-li 
 > rozhodčí smlouva ustanovení o počtu a osobách rozhodců, jmenuje každá ze 
 > stran jednoho rozhodce a tito rozhodci volí předsedajícího rozhodce.
 > (Nelze postupovat podle ustanovení o spolku, neboť svazek nemá rozhodčí 
 > komisi.) Nález rozhodců je právně závazný a vynutitelný. 
 
-
+<a name="b14"></a>
 14. Ustanovení při zakládání
 ----------------------------
+<a name="b14.1"></a>
 14.1 Zakládající členové svazku jsou:
 
 - 14.1.1 hlavní město Praha,  
   se sídlem Mariánské náměstí 2/2, 11001 Praha 1,  
-  zastoupené primátorkou Adrianou Krnáčovou,  
+  zastoupené primátorkou Mgr. Adrianou Krnáčovou, MBA,  
 
 - 14.1.2 statutární město Brno,  
   se sídlem Dominikánské náměstí 196/1, 60200 Brno,   
-  zastoupené primátorem Petrem Vokřálem,
+  zastoupené primátorem Ing. Petrem Vokřálem,
 
 (...)
 
@@ -530,28 +549,30 @@ v rozhodčím řízení podle zákona o rozhodčím řízení a o výkonu rozhod
 
 14.2.5 ..........................
 
-14.3 Zakládající členové svazku doručí souhlas zastupitelstva předsedovi výboru,
+14.3 Prvním kontrolorem je ................................
+
+14.4 Zakládající členové svazku doručí souhlas zastupitelstva předsedovi výboru,
 jakmile zástupci zakládajících členů svazku prohlásí, že text stanov i smlouvy
 o založení dobrovolného svazku obcí je dojednán a jeho změny nejsou přípustné. 
 Předsedovi výboru se ukládá navrhnout zápis svazku do veřejného rejstříku 
 bez zbytečného odkladu po uplynutí
-3 měsíců od okamžiku, kdy smlouvu o uvoření dobrovolného svazku obcí a tyto 
+3 měsíců od okamžiku, kdy smlouvu o utvoření dobrovolného svazku obcí a tyto 
 stanovy schválí zastupitelstva
 aspoň tří zakládajících členů svazku. 
 
-14.4 Každý zakládající člen dává souhlasem
+14.5 Každý zakládající člen dává souhlasem
 se stanovami rovněž svůj souhlas k tomu, aby svazek vznikl i s menším počtem
-členů, než je uveden v bodě 14.1. Pokud některá zastupitelstva nevysloví
-svůj souhlas do dne, kdy je podán návrh na zápis svazku do veřejného rejstříku,
-jejich obce se členy svazku nestanou, ale vzniku svazku to není na překážku. 
+členů, než je uveden v bodě [14.1](#b14.1). Pokud některá zastupitelstva nevysloví
+svůj souhlas do okamžiku, kdy je podán návrh na zápis svazku do veřejného rejstříku,
+není na překážku vzniku svazku, ale jejich obce se členy svazku nestanou. 
 Doručí-li zakládající člen souhlas zastupitelstva až po podání návrhu na zápis 
-svazku do veřejného rejstříku, posuzuje se podání jako přihláška nového člena.
+svazku do veřejného rejstříku, posuzuje se jeho podání jako přihláška nového člena.
 
-14.5 Každý zakládající člen svazku (bod 14.1) je povinen vnést do svazku 
-peněžitý vklad ve výši 2 Kč na jednoho obyvatele (bod 5.4). Vklad je splatný 
+14.5 Každý zakládající člen svazku (bod [14.1](#b14.1)) je povinen vnést do svazku 
+peněžitý vklad ve výši 2 Kč na jednoho obyvatele (bod [5.4](#b5.4)). Vklad je splatný 
 na transparentní bankovní účet svazku do dvou měsíců od vzniku svazku.
 
-14.6 Svazek navrhne výmaz bodu 14 z úplného znění stanov, jakmile budou splaceny 
+14.6 Svazek navrhne výmaz bodu [14](#b14) z úplného znění stanov, jakmile budou splaceny 
 všechny vklady zakládajících členů. Údaje o členech budou v ten okamžik již 
 vedeny v seznamu členů a údaje o členech výboru budou zapsány ve veřejném 
 rejstříku.
