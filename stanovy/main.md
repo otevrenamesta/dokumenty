@@ -1,11 +1,14 @@
 Stanovy dobrovolného svazku Otevřená města
 ======================================
-[TOC]
+
+Tento dokument je návrhem, na kterém pracuje zastupitel Pirátů v Praze
+Jakub Michálek. Pro zapojení a připomínky napište do konference ma mail
+<tag@lists.openalt.org>.
 
 1. Základní údaje
 -----------------
 
-1.1 Název dobrovolného svazku zní: Otevřená města (dále jen „svazek“).
+1.1 Název dobrovolného svazku zní **Otevřená města** (dále jen „svazek“).
 
 1.2 Svazek je ustaven ve veřejném zájmu jako právnická osoba veřejného práva, 
 která sdružuje města, obce a další nižší územní samosprávné celky.
@@ -26,7 +29,7 @@ která sdružuje města, obce a další nižší územní samosprávné celky.
 > násl. zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších 
 > předpisů. Forma dobrovolného svazku obcí odpovídá tomu, že jde o spolupráci 
 > osob veřejného práva, a tak je vhodnější, když výsledkem bude opět osoba 
-> veřejného práva. Svazek je ustaven ve veřejném zájmu dle § 144 odst. 1 zákona
+> veřejného práva. Svazek je ustaven ve veřejném zájmu dle § 144 odst. 1 zákona
 > č. 89/2012 Sb., občanského zákoníku.
 >
 > K 1.3. Doména plně odpovídá názvu právnické osoby. Doménu zakoupil dne 
@@ -52,7 +55,9 @@ která sdružuje města, obce a další nižší územní samosprávné celky.
 transparentní rozhodování, zpřístupnění úředních dat a zapojování veřejnosti 
 do rozhodování.
 
-2.2 DOPLNIT VYMAZANOU ČÁST
+2.2 Svazek prosazuje, koordinuje a financuje zavádění, vývoj a údržbu svobodného
+software a dalších otevřených technologií pro výkonnou, hospodárnou a bezpečnou 
+veřejnou správu.
 
 > **Komentář**:
 > 
@@ -185,7 +190,7 @@ a zachovávat vnitřní řád svazku.
 kteří mají na jeho území trvalé bydliště. Pokud je členem svazku jak hlavní 
 město Praha, tak jeho městská část, rozdělí se počet obyvatel rovnou měrou 
 mezi hlavní město Prahu a jeho městskou část. Počet obyvatel a odpovídající 
-počet hlasů (bod 7.2) se zveřejňuje pravidelně v seznamu členů.
+počet hlasů (bod [7.2][#b7.2]) se zveřejňuje pravidelně v seznamu členů.
 
 5.5 Zájemce o členství podá výboru svazku přihlášku, jejíž přílohou je 
 usnesení o souhlasu zastupitelstva s připojením do svazku. 
@@ -283,6 +288,7 @@ mohli účastnit i nepřítomní členové.
 7.1 Každý člen svazku je na členské schůzi zastoupen svým statutárním nebo 
 zplnomocněným zástupcem.
 
+<a name="b7.2"></a>
 7.2 Člen svazku má tolik hlasů, kolik činí po zaokrouhlení druhá odmocnina 
 z jeho počtu obyvatel. Tyto hlasy není možné rozdělit.
 
@@ -327,7 +333,7 @@ odvolávat likvidátora,
 > stejná *apriorní* hlasovací síla. Tato otázka byla řešena při diskusi o
 > hlasovací síle v rámci orgánů Evropské unie. Podrobné zdůvodnění naleznete
 > v článku Karol Zyczkowski and Wojciech Slomczynski: *Square root voting system,*
-> *optimal threshold and* $ \pi $, dostupného jako preprint na [webu][arxiv-sqrt].
+> *optimal threshold and π*, dostupného jako preprint na [webu][arxiv-sqrt].
 >
 > Příklady rozložení počtu obyvatel a hlasovací síly pro namátkou vybraná česká 
 > města, pokud by byla členy svazku, zobrazuje následující obrázek:
@@ -468,7 +474,11 @@ rozhodnutí, zápisy a účetní
 výkazy na svých internetových stránkách. Svazek je veřejnou institucí podle 
 zákona o svobodném přístupu k informacím.
 
-Svazek požádá o přezkoumání hospodaření svazku za uplynulý kalendářní rok Ministerstvo financí, anebo zadá přezkoumání auditorovi nebo auditorské společnosti (dále jen "auditor").
+> **Komentář**:
+> Svazek požádá v souladu se zákonem č. 128/2000 Sb., o obcích, ve znění 
+> pozdějších předpisů, o přezkoumání hospodaření 
+> svazku za uplynulý kalendářní rok Ministerstvo financí, anebo zadá 
+> přezkoumání auditorovi nebo auditorské společnosti.
 
 11. Smírčí a rozhodčí doložka
 --------------------
