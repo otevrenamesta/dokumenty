@@ -28,18 +28,18 @@ která sdružuje města, obce a další základní územní samosprávné celky.
 >
 > K [1.1](#b1.1) Název svazku vyjadřuje politiku otevřenosti a hlavní cíle svazku.
 >
-> K [1.2](#b1.2) Právní formu dobrovolného svazku obcí upravuje § 49 a násl. zákona 
-> č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, resp. § 24 a 
+> K [1.2](#b1.2) Právní formu dobrovolného svazku obcí upravuje § 49 a násl. zákona 
+> č. 128/2000 Sb., o obcích, ve znění pozdějších předpisů, resp. § 24 a 
 > násl. zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších 
 > předpisů. Forma dobrovolného svazku obcí odpovídá tomu, že jde o spolupráci 
 > osob veřejného práva, a tak je vhodnější, když výsledkem bude opět osoba 
-> veřejného práva. Svazek je ustaven ve veřejném zájmu dle § 144 odst. 1 zákona
+> veřejného práva. Svazek je ustaven ve veřejném zájmu dle § 144 odst. 1 zákona
 > č. 89/2012 Sb., občanského zákoníku.
 >
 > K [1.3](#b1.3). Doména plně odpovídá názvu právnické osoby. Doménu zakoupil dne 
 > 14. 12. 2014 pro tento projekt a pod jeho názvem autor stanov a tato doména 
 > bude po vzniku bezplatně převedena pod svazek a vedena jako jeho majetek
-> v souladu s § 127 zákona č. 89/2012 Sb., občanského zákoníku. Právnická osoba
+> v souladu s § 127 zákona č. 89/2012 Sb., občanského zákoníku. Právnická osoba
 > musí po svém vzniku účinek založení domény do tří měsíců od svého vzniku 
 > převzít. V takovém případě platí, že je z těchto jednání oprávněna a 
 > zavázána od počátku. Převezme-li je, dá dalším zúčastněným najevo, že tak 
@@ -48,8 +48,8 @@ která sdružuje města, obce a další základní územní samosprávné celky.
 > K [1.4](#b1.4) Jde o výsledek dohody na pracovní schůzce, který reflektuje skutečnost, 
 > že Brno je tradičním místem konání konferencí a veletrhů v oblasti otevřeného 
 > software. Přesnou adresu místa v obci není  třeba do stanov psát 
-> (§ 136 odst. 2 zákona č. 89/2012 Sb., občanský zákoník) a bude určena orgány 
-> svazku, konkrétně jeho výborem (§ 163 zákona č. 89/2012 Sb., občanského 
+> (§ 136 odst. 2 zákona č. 89/2012 Sb., občanský zákoník) a bude určena orgány 
+> svazku, konkrétně jeho výborem (§ 163 zákona č. 89/2012 Sb., občanského 
 > zákoníku).
 
 2. Cíle
@@ -68,7 +68,7 @@ veřejnou správu.
 > **Komentář**:
 > 
 > K [2.1](#b2.1) První cíl mluví o otevřeném fungování radnic, přičemž dává příklady, 
-> co se tím rozumí. Jde například o zveřejňování informací podle § 5 zákona 
+> co se tím rozumí. Jde například o zveřejňování informací podle § 5 zákona 
 > č. 106/1999 Sb.,  o svobodném přístupu k informacím, ve znění pozdějších 
 > předpisů, zpřístupňování dat ve formátu otevřených dat, zapojování veřejnosti 
 > do rozhodování pomocí referend, participativního rozpočtu a jiných nástrojů. 
@@ -104,7 +104,7 @@ proprietárního software a jiných institucí,
 3.2 vede vlastní projekty, zaštiťuje projekty třetích stran a zapojuje do 
 svých aktivit členy svazku anebo veřejné vysoké školy a jiné instituce, např.
 
-<a name="b2.2"></a>
+<a name="b3.2.1"></a>
 - 3.2.1 vystupuje namísto členů svazku na jejich žádost jako zadavatel při 
   společném zadavání veřejných zakázek zejména na svobodný software,
 
@@ -130,10 +130,10 @@ software ve veřejné správě, členy svazku i veřejnost,
 
 > **Komentář**:
 
-> K [3.2.1](#b3.2.1) Podle § 3 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění 
+> K [3.2.1](#b3.2.1) Podle § 3 zákona č. 137/2006 Sb., o veřejných zakázkách, ve znění 
 > pozdějších předpisů, je centrálním zadavatelem veřejný zadavatel, který 
 > provádí centralizované zadávání. Svazek bude veřejným zadavatelem podle 
-> § 2 odst. 2 písm. d) tohoto zákona. První možnost centrálního zadavatele 
+> § 2 odst. 2 písm. d) tohoto zákona. První možnost centrálního zadavatele 
 > je, že pro jiného zadavatele pořizuje dodávky či služby, jež jsou předmětem 
 > veřejných zakázek, které následně prodává jiným zadavatelům za cenu 
 > nikoliv vyšší, než za kterou byly dodávky či služby pořízeny. Druhou 
@@ -206,37 +206,40 @@ město Praha, tak jeho městská část, rozdělí se počet obyvatel rovnou mě
 mezi hlavní město Prahu a jeho městskou část. Počet obyvatel a odpovídající 
 počet hlasů (bod [7.2](#b7.2)) se zveřejňuje pravidelně v seznamu členů.
 
+<a name="b5.5"></a>
 5.5 Zájemce o členství podá výboru svazku přihlášku, jejíž přílohou je 
 usnesení o souhlasu zastupitelstva s připojením do svazku. 
 Další náležitosti přihlášky stanoví svazek. 
 Členství vzniká, jakmile byl zájemce přijat a zaplatil členský příspěvek
 za celý rok, ve kterém podal přihlášku.
 
+<a name="b5.6"></a>
 5.6 Pokud člen neuhradí členský příspěvek ani v dodatečné lhůtě, jeho členství 
 nezaniká, ale členská práva jsou mu marným uplynutím dodatečné lhůty 
 pozastavena.
 
 > **Komentář**:
 > 
-> K [5.1][#b5.1] Členství je omezeno na základní územní samosprávné celky. Členem 
-> může být hlavní město Praha (§ 24 odst. 1 zákona č. 131/2000 Sb., o hlavním 
-> městě Praze, ve znění pozdějších předpisů), jeho městské části (§ 23 odst. 1, 
-> 3 ve spojení s § 24 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění 
+> K [5.1](#b5.1) Členství je omezeno na základní územní samosprávné celky. Členem 
+> může být hlavní město Praha (§ 24 odst. 1 zákona č. 131/2000 Sb., o hlavním 
+> městě Praze, ve znění pozdějších předpisů), jeho městské části (§ 23 odst. 1, 
+> 3 ve spojení s § 24 zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění 
 > pozdějších předpisů), jakož i jiné obce a města, 
-> která mají právní osobnost (§ 49 a násl. zákona č. 128/2000 Sb., o obcích,
+> která mají právní osobnost (§ 49 a násl. zákona č. 128/2000 Sb., o obcích,
 > ve znění pozdějších předpisů). Městské části a obvody územně členěných 
 > statutárních měst (s citovanou výjimkou hlavního města Prahy) nemají vlastní 
 > právní subjektivitu, proto nemohou být členy svazku a v jejich 
 > případě není třeba řešit problém dělení hlasů (bod [5.4](#b5.4)).
 > 
-> K [5.4](#b5.4) Seznam členů je veden na základě bodu [4.5](#b4.5) stanov ve spojení s § 236
+> K [5.4](#b5.4) Seznam členů je veden na základě bodu [4.5](#b4.5) stanov ve spojení s § 236
 > zákona č. 89/2012 Sb., občanský zákoník, a bodu [8.4.9](#b8.4.9) stanov.
 > 
-> K 5.5 Usnesení zastupitelstva je nezbytnou podmínkou podle § 59 odst. 2 písm.
+> K [5.5](#b5.5) Usnesení zastupitelstva je nezbytnou podmínkou podle § 59 odst. 2 písm.
 > i) zákona č. 131/2000 Sb., o hlavním městě Praze, ve znění pozdějších 
 > předpisů, pro účast na svazku.
-> K 5.6 Vylučuje se subsidiární použitelnost ustanovení o zániku členství, 
-> která by podle bodu [4.5](#b4.5) ve spojení s § 238 zákona č. 89/2012 Sb., 
+> 
+> K [5.6](#b5.6) Vylučuje se subsidiární použitelnost ustanovení o zániku členství, 
+> která by podle bodu [4.5](#b4.5) ve spojení s § 238 zákona č. 89/2012 Sb., 
 > občanský zákoník, nastala. Jde o to, aby nemusel opakovaně probíhat proces 
 > podání nové přihlášky. V ostatních věcech (přijímání a vylučování členů) 
 > se řídí spolek ustanoveními občanského zákoníku o spolku.
@@ -264,12 +267,14 @@ na internetových stránkách svazku pokud možno průběžně a dostatečnou do
 
 6.4 Orgány rozhodují ve veřejném hlasování podle jmen členů
 
-- 6.4.1 většinou hlasů všech svých členů, bylo-li rozhodnutí řádně projednáno,
+- 6.4.1 většinou hlasů všech svých členů, nebylo-li rozhodnutí řádně projednáno,
 
-- 6.4.2 <a name="b6.4.2"></a> většinou hlasů těch svých členů, 
+<a name="b6.4.2"></a>
+- 6.4.2 většinou hlasů těch svých členů, 
   kteří se účastní hlasování, stanoví-li
-  jednací řád daného orgánu podmínky řádného projednání a jsou-li podmínky 
-  vyplývající z jednacího řádu daného orgánu i vnitřního řádu svazku dodrženy.
+  jednací řád daného orgánu podmínky řádného projednání a jsou-li dodrženy podmínky 
+  řádného projednání vyplývající z jednacího řádu daného orgánu i vnitřního řádu 
+  svazku.
 
 6.5 Jednání probíhá přednostně na dálku pomocí komunikačních 
 technologií, aby mohli členové zasílat předem své alternativní návrhy, aby byl
@@ -280,7 +285,7 @@ mohli účastnit i nepřítomní členové.
 
 > **Komentář**:
 > 
-> K [6.4.2](#b6.4.2) Obdobně jako v § 257 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku,
+> K [6.4.2](#b6.4.2) Obdobně jako v § 257 odst. 1 zákona č. 89/2012 Sb., občanského zákoníku,
 > se navrhuje určit případy, ve kterých není třeba souhlasu nadpoloviční většiny
 > všech členů, ale pouze většiny členů aktivních. Nezájem a neúčast tedy nemohou
 > činnost svazku zablokovat. Podmínky řádného projednání mohou být stanoveny
@@ -314,27 +319,18 @@ návrh na svolání členské schůze.
 7.4 Členské schůzi je vyhrazeno
 
 - 7.4.1 usnášet se na svém jednacím řádu,
-
 - 7.4.2 volit, odvolávat a úkolovat výbor, jeho předsedu a další jednotlivé členy,
-
 - 7.4.3 přijímat a vylučovat členy svazku, 
-
 - 7.4.4 schvalovat výroční zprávu výboru o činnosti svazku,
-
 - 7.4.5 schvalovat výroční zprávu kontrolora o hospodaření svazku,
-
 - 7.4.6 udělovat předchozí souhlas se smlouvou o výkonu funkce vzhledem k 
   orgánům, které volí,
-
 - 7.4.7 <a name="b7.4.7"></a> změnit výši členského příspěvku na následující kalendářní roky, a to 
   aspoň 90 dní před začátkem nového kalendářního roku,
-
 - 7.4.8 rušit či měnit libovolné rozhodnutí jiného orgánu svazku, dotýká-li 
 se zrušení či změna rozhodnutí pouze jednání a vnitřních poměrů svazku,
-
 - 7.4.9 rozhodnout o zrušení nebo přeměně svazku, případně jmenovat a 
 odvolávat likvidátora,
-
 - 7.4.10 rozhodovat o změně stanov.
 
 > **Komentář**:
@@ -450,9 +446,10 @@ Kontrolor
 orgánem, jeho předseda, případně jiný člen výboru pověřený předsedou nebo 
 výborem, a to v souladu s předchozím usnesením výboru.
 
-9.2 Jde-li o závažnější právní jednání, vyžaduje se vedle jednání 
+9.2 Jde-li o závažnější právní jednání ([9.3](#b9.3), vyžaduje se vedle jednání 
 podle bodu 9.1 současně i společné právní jednání dalšího člena výboru.
 
+<a name="b9.3"></a>
 9.3 **Závažnějším právním jednáním** je právní jednání, kterým svazek poskytuje 
 větší hodnotu než 100 000 Kč nebo se k takovému plnění zavazuje. 
 Za poskytnutí takové hodnoty se považuje též ručení takovou 
@@ -515,7 +512,7 @@ v rozhodčím řízení podle zákona o rozhodčím řízení a o výkonu rozhod
 > výroční zprávy kontrolora o hospodaření.
 >
 > K [11.2](#b11.2) Není-li dohodnuto jinak, postupuje se podle zákona č. 216/1994 Sb., 
-> o rozhodčím řízení a o výkonu rozhodčích nálezů. Podle § 7 odst. 2 nemá-li 
+> o rozhodčím řízení a o výkonu rozhodčích nálezů. Podle § 7 odst. 2 nemá-li 
 > rozhodčí smlouva ustanovení o počtu a osobách rozhodců, jmenuje každá ze 
 > stran jednoho rozhodce a tito rozhodci volí předsedajícího rozhodce.
 > (Nelze postupovat podle ustanovení o spolku, neboť svazek nemá rozhodčí 
@@ -527,11 +524,11 @@ v rozhodčím řízení podle zákona o rozhodčím řízení a o výkonu rozhod
 <a name="b14.1"></a>
 14.1 Zakládající členové svazku jsou:
 
-- 14.1.1 hlavní město Praha,  
+- 14.1.1 **hlavní město Praha**,  
   se sídlem Mariánské náměstí 2/2, 11001 Praha 1,  
   zastoupené primátorkou Mgr. Adrianou Krnáčovou, MBA,  
 
-- 14.1.2 statutární město Brno,  
+- 14.1.2 **statutární město Brno**,  
   se sídlem Dominikánské náměstí 196/1, 60200 Brno,   
   zastoupené primátorem Ing. Petrem Vokřálem,
 
