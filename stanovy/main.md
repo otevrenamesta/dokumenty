@@ -11,7 +11,7 @@ Jakub Michálek. Pro zapojení a připomínky napište do konference ma mail
 1.1 Název dobrovolného svazku zní **Otevřená města** (dále jen „svazek“).
 
 1.2 Svazek je ustaven ve veřejném zájmu jako právnická osoba veřejného práva, 
-která sdružuje města, obce a další nižší územní samosprávné celky.
+která sdružuje města, obce a další základní územní samosprávné celky.
 
 1.3. Internetové stránky svazku jsou na doméně 
 [otevrenamesta.cz](http://www.otevrenamesta.cz).
@@ -137,31 +137,31 @@ software ve veřejné správě, členy svazku i veřejnost,
 4. Principy činnosti
 --------------------
 
-4.1 Ve všech oblastech prosazujeme, aby software, fotografie, dokumenty a 
+4.1 Svazek ve všech oblastech prosazuje, aby software, fotografie, dokumenty a 
 jiná díla zakoupená za veřejné prostředky byla volně dostupná jako 
-[svobodné kulturní dílo][fcw].
+[svobodné kulturní dílo][fcw] s možností opakovaného užití i komerčním sektorem.
 
-4.2 Spolupracujeme se státními orgány, veřejnými vysokými školami, výzkumnými 
+4.2 Svazek spolupracuje s kraji, státními orgány, veřejnými vysokými školami, výzkumnými 
 a vědeckými institucemi, školami, politickými stranami, neziskovým sektorem a 
-dalšími institucemi, které se mohou stát partnery,  pokud se ztotožní s cíly a 
+dalšími institucemi, které se mohou stát partnery svazku,  pokud se ztotožní s cíly a 
 principy činnosti svazku a zavážou se pomoci při prosazování cílů svazku.
 
-4.4 Rozhodování ve svazku se zakládá na otevřené diskusi na společné 
+4.3 Rozhodování ve svazku se zakládá na otevřené diskusi na společné 
 komunikační platformě a na hledání široké shody mezi těmi, kterých se 
-rozhodnutí týká. Nelze-li dosáhnout široké shody, rozhoduje se hlasováním 
+rozhodnutí týká. Nelze-li dosáhnout široké shody, rozhoduje až hlasování 
 podle pravidel v těchto stanovách.
 
-4.5 Svazek uskutečňuje vlastní projekty nebo zaštiťuje projekty třetích stran 
+4.4 Svazek uskutečňuje vlastní projekty nebo zaštiťuje projekty třetích stran 
 vedoucí k dosažení cílů svazku. Projekt člena svazku nebo jiné veřejné 
 instituce, který je v souladu s vnitřním řádem svazku, zařadí svazek do 
-seznamu projektů svazku a upraví vzájemné vztahy ke svazku zvláštní smlouvou. 
+seznamu projektů svazku a upraví vzájemné právní vztahy zvláštní smlouvou. 
 O záležitostech projektu rozhoduje jeho vedoucí, který je za něj také 
 odpovědný. Projekt může získávat prostředky od svazku, jeho členů a 
 z jiných zdrojů.
 
-4.6 Kde ze zákona či těchto stanov nevyplývá nic jiného, řídí se svazek a 
-jeho členové vnitřním řádem spolku a obecnými ustanoveními zákona o spolku 
-a jeho členech.
+4.5 Kde ze zákona či těchto stanov nevyplývá nic jiného, řídí se svazek a 
+jeho členové vnitřním řádem svazku a obdobně též obecnými ustanoveními zákona 
+o spolku a jeho členech.
 
 [fcw]: http://freedomdefined.org/Definition/Cs
 
@@ -190,7 +190,7 @@ a zachovávat vnitřní řád svazku.
 kteří mají na jeho území trvalé bydliště. Pokud je členem svazku jak hlavní 
 město Praha, tak jeho městská část, rozdělí se počet obyvatel rovnou měrou 
 mezi hlavní město Prahu a jeho městskou část. Počet obyvatel a odpovídající 
-počet hlasů (bod [7.2][#b7.2]) se zveřejňuje pravidelně v seznamu členů.
+počet hlasů (bod [7.2](#b7.2)) se zveřejňuje pravidelně v seznamu členů.
 
 5.5 Zájemce o členství podá výboru svazku přihlášku, jejíž přílohou je 
 usnesení o souhlasu zastupitelstva s připojením do svazku. 
