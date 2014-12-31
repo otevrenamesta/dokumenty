@@ -94,7 +94,7 @@ veřejnou správu.
 
 [gnu]: https://www.gnu.org/philosophy/free-sw.html
 
-3. Aktivity
+3. Předmět činnosti
 --------------
 K dosažení svých cílů svazek zejména:
 
@@ -367,23 +367,23 @@ ke členství ve voleném orgánu, odstoupením či odvoláním člena voleného
 v případě kooptovaného člena též volbou náhradníka původního člena voleného 
 orgánu.
 
-8.3 Způsobilost být členem orgánu má pouze člověk, který v písemné podobě zašle 
-svazku ke zveřejnění na jeho internetových stránkách svůj životopis a dokument,
+8.3 Způsobilost být členem voleného orgánu má pouze člověk, který v písemné podobě zašle 
+svazku k trvalému zveřejnění na jeho internetových stránkách svůj životopis a dokument,
 ve kterém prokáže, jak svými konkrétními činy dlouhodobě přispívá cílům svazku,
 případně splní další podmínky, které svazek určil. Ten, kdo povolává členy 
-orgánu, před volbou rozhodne, zda jsou přihlášení kandidáti způsobilí být 
+voleného orgánu, před volbou rozhodne, zda jsou přihlášení kandidáti způsobilí být 
 členem orgánu.
 
-8.4 **Výbor** je statutárním orgánem spolku. Výbor je členskou schůzí volen jako 
+8.4 **Výbor** je statutárním a výkonným orgánem spolku. Výbor je členskou schůzí volen jako 
 kolektivní orgán o pěti členech. Výbor
 
 - 8.4.1 odpovídá za vystupování svazku navenek a plnění povinností 
   svazku vyplývajících ze zákona nebo těchto stanov, nejsou-li svěřeny jinému 
   orgánu,
-- 8.4.2 kontroluje hospodaření s majetkem svazku a dodržování pravidel 
-  zaměstnanci svazku,
+- 8.4.2 schvaluje rozpočet, řídí a kontroluje hospodaření s majetkem svazku a 
+  dodržování pravidel zaměstnanci svazku,
 - 8.4.3 schvaluje účetní závěrku svazku obcí sestavenou k rozvahovému dni podle 
-  zákona o účetnictví,
+  zákona o účetnictví a zpracovává a schvaluje návrh závěrečného účtu svazku,
 - 8.4.4 <a name="b8.4.4"></a> určuje dlouhodobé cíle svazku a schvaluje technický plán, který určuje 
   vlastní projekty svazku (bod [4.4](#b4.4)),
 - 8.4.5 určuje organizační strukturu, přijímá vnitřní předpisy k úpravě 
@@ -409,14 +409,26 @@ orgánu svazku. Může být zvoleno i více kontrolorů, pak jedná každý samo
 Kontrolor
 
 - 8.6.1 má přístup ke všem dokumentům svazku a dohlíží na jeho hospodaření,
-- 8.6.2 předkládá alespoň jednou ročně zprávu o hospodaření členské schůzi,
-- 8.6.3 zúčastňuje se jednání orgánů svazku s hlasem poradním.
+- 8.6.2 provádí kontrolu hospodaření s majetkem svazku obcí a s jeho finančními
+  prostředky a předkládá zprávu o výsledcích kontroly výboru, který s nimi 
+  seznamuje zastupitelstva členských obcí,
+- 8.6.3 vyjadřuje se k návrhu závěrečného účtu svazku před jeho projednáním,
+- 8.6.4 zúčastňuje se jednání orgánů svazku s hlasem poradním.
+
 
 > **Komentář**:
 > Co se týče organizačnou soustavy, autor stanov vycházel ze svých zkušeností
 > s právnickými osobami různých typů se zvláštním důrazem na využití zkušeností
 > z organizací, které se věnují svobodnému software (viz volně dostupná kniha
 > [The Art of Community][aoc].
+>
+> K [8.4][#b8.4] Povinnosti výboru ohledně hospodaření vyplývají z § 39
+> zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění
+> pozdějších předpisů.
+>
+> > K [8.6][#b8.6] Povinnosti kontrolora ohledně hospodaření vyplývají z § 39
+> zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění
+> pozdějších předpisů.
 
 [aoc]: http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf
 
@@ -425,20 +437,19 @@ Kontrolor
 
 9.1 Nejde-li o závažnější právní jednání, jedná za výbor, který je statutárním 
 orgánem, jeho předseda, případně jiný člen výboru pověřený předsedou nebo 
-výborem, a to v souladu s předchozím usnesením výboru.
+výborem, a to v souladu s předchozím usnesením výboru. Jde-li o závažnější 
+právní jednání ([9.2](#b9.2)), vyžaduje se současně i společné právní jednání 
+dalšího člena výboru.
 
-9.2 Jde-li o závažnější právní jednání ([9.3](#b9.3), vyžaduje se vedle jednání 
-podle bodu 9.1 současně i společné právní jednání dalšího člena výboru.
-
-<a name="b9.3"></a>
-9.3 **Závažnějším právním jednáním** je právní jednání, kterým svazek poskytuje 
+<a name="b9.2"></a>
+9.2 **Závažnějším právním jednáním** je právní jednání, kterým svazek poskytuje 
 větší hodnotu než 100 000 Kč nebo se k takovému plnění zavazuje. 
 Za poskytnutí takové hodnoty se považuje též ručení takovou 
 hodnotou, její zastavení, zatížení, uzavření o smlouvě budoucí, předkupní 
 právo anebo jiné právní jednání, které může mít za následek závazek k poskytnutí 
 takové hodnoty.
 
-9.4   Písemné právní jednání výboru nebo jiného zástupce svazku musí obsahovat 
+9.3   Písemné právní jednání výboru nebo jiného zástupce svazku musí obsahovat 
 jméno jednajícího, jeho funkci a podpis.
 
 10. Hospodaření s majetkem
@@ -469,16 +480,18 @@ výkazy na svých internetových stránkách. Svazek je veřejnou institucí pod
 zákona o svobodném přístupu k informacím.
 
 > **Komentář**:
-> Svazek požádá v souladu se zákonem č. 128/2000 Sb., o obcích, ve znění 
+> K 10.1 Svazek požádá v souladu se zákonem č. 128/2000 Sb., o obcích, ve znění 
 > pozdějších předpisů, o přezkoumání hospodaření 
 > svazku za uplynulý kalendářní rok Ministerstvo financí, anebo zadá 
-> přezkoumání auditorovi nebo auditorské společnosti.
+> přezkoumání auditorovi nebo auditorské společnosti. Svazek schvaluje rozpočet
+> a hospodaří podle § 38 a násl. zákona č. 250/2000 Sb., o rozpočtových pravidlech územních 
+> rozpočtů, ve znění pozdějších předpisů. 
 
 11. Smírčí a rozhodčí doložka
 --------------------
 <a name="b11.1"></a>
 11.1 Vznikne-li mezi členem svazku a svazkem nebo mezi členy svazku navzájem 
-při činnosti svazku nebo při některém z projektu svazku ([4.4](#b4.4)) spor, zavazují se 
+při činnosti svazku nebo při některém z projektu svazku (bod [4.4](#b4.4)) spor, zavazují se 
 členové pokusit o smírné řešení sporu, a to aspoň na dvou jednáních výboru.
 
 <a name="b11.2"></a>
