@@ -314,17 +314,18 @@ návrh na svolání členské schůze.
 - 7.4.1 usnášet se na svém jednacím řádu,
 - 7.4.2 volit, odvolávat a úkolovat výbor, jeho předsedu a další jednotlivé členy,
 - 7.4.3 přijímat a vylučovat členy svazku, 
-- 7.4.4 schvalovat výroční zprávu výboru o činnosti svazku,
-- 7.4.5 schvalovat výroční zprávu kontrolora o hospodaření svazku,
+- 7.4.4 schvalovat výroční zprávu výboru o činnosti svazku včetně informace o
+  závěrečném účtu svazku a vyjádření kontrolora k němu,
+- 7.4.5 rozhodovat o změně stanov,
 - 7.4.6 udělovat předchozí souhlas se smlouvou o výkonu funkce vzhledem k 
-  orgánům, které volí,
+  členům orgánů, které volí,
 - 7.4.7 <a name="b7.4.7"></a> změnit výši členského příspěvku na následující kalendářní roky, a to 
   aspoň 90 dní před začátkem nového kalendářního roku,
 - 7.4.8 rušit či měnit libovolné rozhodnutí jiného orgánu svazku, dotýká-li 
 se zrušení či změna rozhodnutí pouze jednání a vnitřních poměrů svazku,
 - 7.4.9 rozhodnout o zrušení nebo přeměně svazku, případně jmenovat a 
-odvolávat likvidátora,
-- 7.4.10 rozhodovat o změně stanov.
+odvolávat likvidátora.
+
 
 > **Komentář**:
 > 
@@ -374,6 +375,7 @@ případně splní další podmínky, které svazek určil. Ten, kdo povolává 
 voleného orgánu, před volbou rozhodne, zda jsou přihlášení kandidáti způsobilí být 
 členem orgánu.
 
+<a name="b8.4"></a>
 8.4 **Výbor** je statutárním a výkonným orgánem spolku. Výbor je členskou schůzí volen jako 
 kolektivní orgán o pěti členech. Výbor
 
@@ -390,7 +392,8 @@ kolektivní orgán o pěti členech. Výbor
   poměrů svazku a vzory smluv pro právní vztahy, v nichž svazek vystupuje,
 - 8.4.6 volí, odvolává a úkoluje technickou radu,
 - 8.4.7 rozhoduje o tom, kdo se stane partnerem svazku, a o zrušení partnerství,
-- 8.4.8 předkládá členské schůzi alespoň jednou ročně zprávu o činnosti,
+- 8.4.8 předkládá členské schůzi alespoň jednou ročně zprávu o činnosti svazku,
+  která obsahuje informaci o závěrečném účtu svazku a výsledcích kontrol,
 - 8.4.9 <a name="b8.4.9"></a> vede a na internetových stránkách svazku zveřejňuje seznam členů 
   s údaji podle zákona a těchto stanov.
 
@@ -404,6 +407,7 @@ působnosti svazku. Technická rada
 - 8.5.3 rozhoduje v pochybnostech o tom, zda jsou technické záměry a provedení 
   projektu v souladu s vnitřním řádem svazku.
 
+<a name="b8.6"></a>
 8.6 **Kontrolor** je kontrolním orgánem svazku. Kontrolor nesmí být členem jiného 
 orgánu svazku. Může být zvoleno i více kontrolorů, pak jedná každý samostatně.
 Kontrolor
@@ -411,7 +415,7 @@ Kontrolor
 - 8.6.1 má přístup ke všem dokumentům svazku a dohlíží na jeho hospodaření,
 - 8.6.2 provádí kontrolu hospodaření s majetkem svazku obcí a s jeho finančními
   prostředky a předkládá zprávu o výsledcích kontroly výboru, který s nimi 
-  seznamuje zastupitelstva členských obcí,
+  seznamuje zastupitelstva členských obcí ve výroční zprávě o činnosti,
 - 8.6.3 vyjadřuje se k návrhu závěrečného účtu svazku před jeho projednáním,
 - 8.6.4 zúčastňuje se jednání orgánů svazku s hlasem poradním.
 
@@ -422,11 +426,11 @@ Kontrolor
 > z organizací, které se věnují svobodnému software (viz volně dostupná kniha
 > [The Art of Community][aoc].
 >
-> K [8.4][#b8.4] Povinnosti výboru ohledně hospodaření vyplývají z § 39
+> K [8.4](#b8.4) Povinnosti výboru ohledně hospodaření vyplývají z § 38 a násl. 
 > zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění
 > pozdějších předpisů.
 >
-> > K [8.6][#b8.6] Povinnosti kontrolora ohledně hospodaření vyplývají z § 39
+> K [8.6](#b8.6) Povinnosti kontrolora ohledně hospodaření vyplývají z § 39 odst. 5
 > zákona č. 250/2000 Sb., o rozpočtových pravidlech územních rozpočtů, ve znění
 > pozdějších předpisů.
 
